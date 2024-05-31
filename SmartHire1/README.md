@@ -1,2 +1,0 @@
-# SmartHire
-Easy Recruitment Portal
